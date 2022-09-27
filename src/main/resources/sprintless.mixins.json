@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.snorps.sprintless.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "sprintless.refmap.json",
+	"mixins": [
+		"LivingENtityMixin"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}
